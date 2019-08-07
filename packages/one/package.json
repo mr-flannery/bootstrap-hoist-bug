@@ -1,5 +1,5 @@
 {
-  "name": "one",
+  "name": "@dennis/one",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
-    "two": "^1.0.0"
+    "@dennis/two": "^1.0.0"
   }
 }
